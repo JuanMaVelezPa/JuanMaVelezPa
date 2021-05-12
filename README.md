@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JuanMaVelezPa
+- 👀 I’m interested in Data Science, AI, Software Developer
+- 🌱 I’m currently learning DS4A
+- 📫 I'm from Medellin, Colombia.
